@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<# Hi there! 👋
+# Hi there! 👋
 
 I'm a **Software Developer, Graphic Recorder, and Graphic Designer** with a passion for crafting visually compelling and user-friendly digital experiences. I specialize in **UI/UX Design, Product Design, Website Development**, and creating a wide range of **Graphic Design Materials**. Whether it's code or design, I'm dedicated to blending functionality with creativity!
 
@@ -38,8 +36,10 @@ Here are a few highlights of my recent work:
 
 I'm always excited to collaborate on innovative projects or share insights on tech and design. Feel free to reach out!
 
-[![LinkedIn](www.linkedin.com/in/ian-ndung-u-412352237) 
-[![Portfolio](https://drive.google.com/file/d/1SjjAiyRiHJDVEiKerZE7E0XX53skfjT8/view?usp=sharing) 
-[![Email](mainaianndungu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ian-ndung-u-412352237) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=codeigniter)](https://drive.google.com/file/d/1SjjAiyRiHJDVEiKerZE7E0XX53skfjT8/view?usp=sharing)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:mainaianndungu@gmail.com)
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=green)
