@@ -39,7 +39,7 @@ Here are a few highlights of my recent work:
 I'm always excited to collaborate on innovative projects or share insights on tech and design. Feel free to reach out!
 
 [![LinkedIn](www.linkedin.com/in/ian-ndung-u-412352237) 
-[![Portfolio]([https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=codeigniter)](https://yourportfolio.com)](https://drive.google.com/file/d/1SjjAiyRiHJDVEiKerZE7E0XX53skfjT8/view?usp=sharing) 
+[![Portfolio](https://drive.google.com/file/d/1SjjAiyRiHJDVEiKerZE7E0XX53skfjT8/view?usp=sharing) 
 [![Email](mainaianndungu@gmail.com)
 
 ---
